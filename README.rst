@@ -1,5 +1,5 @@
 coviolations.io app
-====================
+==================
 
 `See docs on read the docs <https://coviolationsio.readthedocs.org/en/latest/>`_
 
